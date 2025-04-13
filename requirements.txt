@@ -6,4 +6,4 @@ itsdangerous
 Jinja2
 MarkupSafe
 packaging
-WerkzeugS
+Werkzeug
